@@ -9,3 +9,5 @@ Software utilizado para gerar o G-CODE https://inkscape.org/pt-br . Leia o relat
 Caso as estruturas .obj não abra corretamente converta para .step em  https://imagetostl.com/pt/converter/ficheiro/obj/para/step
 
 Software utilizado para a modelagem foi o autodesk Fusion 360
+
+NÃO UTILIZE O MODULO L298N PONTE H
