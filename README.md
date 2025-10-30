@@ -10,4 +10,4 @@ Caso as estruturas .obj não abra corretamente converta para .step em  https://i
 
 Software utilizado para a modelagem foi o autodesk Fusion 360
 
-NÃO UTILIZE O MODULO L298N PONTE H
+NÃO UTILIZE O DRIVE L298N PONTE H
